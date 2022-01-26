@@ -1,7 +1,7 @@
 /* Selectores básicos, literal, los más básicos. https://www.w3schools.com/html/html_css.asp */
 
 /* con el # referencias un id de html, el id es único e irrepetible y solo se usa para cosas DEMASIADO ESPECÍFICAS */
-#saquareList {
+#squareList {
   list-style: square;
 }
 
