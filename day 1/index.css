@@ -1,0 +1,14 @@
+/* Selectores básicos, literal, los más básicos. https://www.w3schools.com/html/html_css.asp */
+
+/* con el # referencias un id de html, el id es único e irrepetible y solo se usa para cosas DEMASIADO ESPECÍFICAS */
+#saquareList {
+  list-style: square;
+}
+
+/* Con el . referencias la clase de html y se PUEDE USAR EN MUCHOS ELEMENTOS, LAS CLASES SE USAN PARA ESTILOS COMUNES REUTILIZABLES */
+.romanList-lower {
+  list-style: lower-roman;
+}
+.romanList-upper {
+  list-style: upper-roman;
+}
